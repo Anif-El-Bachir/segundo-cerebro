@@ -1,0 +1,5 @@
+config.json
+estado/
+cerebro.log
+__pycache__/
+*.pyc
